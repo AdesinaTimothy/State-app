@@ -1,11 +1,11 @@
-import InputComponent from "./Input.jsx"
+import Form from "./Form.jsx"
 
 
 function App() {
 
   return (
     <div>
-      <InputComponent />
+      <Form />
     </div>
   )
 
