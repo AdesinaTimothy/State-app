@@ -3,7 +3,7 @@ import { useState } from "react"
 export default function Form () {
 
     const [formDetails, setFormDetails] = useState({fullname: "", email: ""}) 
-
+    // Adesina Timothy Boluwatife
     return (
         <div>
             <form>
