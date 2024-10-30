@@ -1,11 +1,11 @@
-import Form from "./Form.jsx"
+import Images from "./Images.jsx"
 
 
 function App() {
 
   return (
     <div>
-      <Form />
+      <Images />
     </div>
   )
 

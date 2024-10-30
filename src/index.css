@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-input {
-  padding: 1rem;
-  background-color: #f8f8f8;
+:root {
+  --background-color: #1e1e1e;
 }
